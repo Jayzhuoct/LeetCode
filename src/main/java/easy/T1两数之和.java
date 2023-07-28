@@ -6,8 +6,10 @@ public class T1两数之和 {
     public static void main(String[] args) {
         int[] nums = {2, 11, 9, 7};
         int[] ints = twoSum3(nums, 9);
-        for (int anInt : ints) {
-            System.out.println(anInt);
+        if (ints != null) {
+            for (int anInt : ints) {
+                System.out.println(anInt);
+            }
         }
 
     }
@@ -39,8 +41,9 @@ public class T1两数之和 {
     暴力法的时间复杂度为 O(n^2)，空间复杂度为 O(1)。
      */
     public static int[] twoSum2(int[] nums, int target) {
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = i + 1; j < nums.length; j++) {
+        int length = nums.length;
+        for (int i = 0; i < length; i++) {
+            for (int j = i + 1; j < length; j++) {
                 if (nums[i] + nums[j] == target) {
                     return new int[]{i, j};
                 }
@@ -60,8 +63,9 @@ public class T1两数之和 {
     public static int[] twoSum3(int[] nums, int target) {
         HashMap<Integer,Integer> index = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            if (index.containsKey(target - nums[i])){
-                return new int[]{i,index.get(target - nums[i])};
+            int key = target - nums[i];
+            if (index.containsKey(key)){
+                return new int[]{i,index.get(key)};
             }else {
                 index.put(nums[i], i);
             }
