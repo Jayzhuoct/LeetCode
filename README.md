@@ -11,7 +11,7 @@
 - [Day7 2023.07.07 T415 字符串相加](src/main/java/easy/T415字符串相加.java)
 - [Day8 2023.07.08 T344 反转字符串](src/main/java/easy/T344反转字符串.java)
 - [Day9 2023.07.09 T88 合并两个有序数组](src/main/java/easy/T88合并两个有序数组.java)
-- Day10 2023.07.10 T283 移动零
+- [Day10 2023.07.10 T283 移动零](src/main/java/easy/T283移动零.java)
 - Day11 2023.07.11 T242 有效的字母异位词
 - Day12 2023.07.12 T349 两个数组的交集
 - Day13 2023.07.13 T350 两个数组的交集 II
