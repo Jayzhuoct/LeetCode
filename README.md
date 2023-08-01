@@ -18,7 +18,7 @@
 - Day14 2023.07.14 [T215 数组中的第K个最大元素](src/main/java/medium/T215数组中的第K个最大元素.java)
 - Day15 2023.07.15 [T912 排序数组](src/main/java/medium/T912排序数组.java)
 - Day16 2023.07.16 [T206 反转链表](src/main/java/easy/T206反转链表.java)
-- Day17 2023.07.17 T21 合并两个有序链表
+- Day17 2023.07.17 [T21 合并两个有序链表](src/main/java/easy/T21合并两个有序链表.java)
 - Day18 2023.07.18 T83 删除排序链表中的重复元素
 - Day19 2023.07.19 T234 回文链表
 - Day20 2023.07.20 T876 链表的中间结点
