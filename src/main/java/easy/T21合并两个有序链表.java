@@ -1,5 +1,7 @@
 package easy;
 
+import common.ListNode;
+
 public class T21合并两个有序链表 {
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1);
@@ -50,16 +52,5 @@ public class T21合并两个有序链表 {
         cur.next = list1 == null ? list2 : list1;
         // 返回头节点的next指针，也就是合并后的有序单链表的头节点
         return head.next;
-    }
-    static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val; this.next = next;
-        }
     }
 }
