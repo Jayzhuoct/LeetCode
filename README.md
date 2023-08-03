@@ -23,7 +23,7 @@
 - Day19 2023.07.19 [T234 回文链表](src/main/java/easy/T234回文链表.java)
 - Day20 2023.07.20 [T876 链表的中间结点](src/main/java/easy/T876链表的中间结点.java)
 - Day21 2023.07.21 [T328 奇偶链表](src/main/java/medium/T328奇偶链表.java)
-- Day22 2023.07.22 T104 二叉树的最大深度
+- Day22 2023.07.22 [T104 二叉树的最大深度](src/main/java/easy/T104二叉树的最大深度.java)
 - Day23 2023.07.23 T226 翻转二叉树
 - Day24 2023.07.24 T100 相同的树
 - Day25 2023.07.25 T101 对称二叉树
