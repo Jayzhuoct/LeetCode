@@ -1,5 +1,7 @@
 package easy;
 
+import common.ListNode;
+
 public class T876链表的中间结点 {
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
@@ -49,15 +51,5 @@ public class T876链表的中间结点 {
 
         return slow;  // 返回慢指针所在的节点，即中间节点
     }
-    static class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) {
-            this.val = val;
-        }
-        ListNode(int val, ListNode next) {
-            this.val = val; this.next = next;
-        }
-    }
+
 }
