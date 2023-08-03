@@ -1,5 +1,7 @@
 package easy;
 
+import common.ListNode;
+
 import java.util.HashSet;
 import java.util.Set;
 
@@ -97,12 +99,4 @@ public class T141环形链表 {
         return false;
     }
 
-    static class ListNode {
-        int val;
-        ListNode next;
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 }
