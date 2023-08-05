@@ -6,6 +6,8 @@ import java.util.List;
 
 public class T235二叉搜索树的最近公共祖先 {
     public static void main(String[] args) {
+        // 测试用例
+        // 构造二叉树
         TreeNode root = new TreeNode(6);
         TreeNode node1 = new TreeNode(2);
         TreeNode node2 = new TreeNode(8);
@@ -27,6 +29,8 @@ public class T235二叉搜索树的最近公共祖先 {
 
         TreeNode p = node1;
         TreeNode q = node2;
+
+        // 测试
         System.out.println(lowestCommonAncestor1(root, p, q).val);
     }
 
