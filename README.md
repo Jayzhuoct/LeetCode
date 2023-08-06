@@ -28,7 +28,7 @@
 - Day24 2023.07.24 [T100 相同的树](src/main/java/easy/T100相同的树.java)
 - Day25 2023.07.25 [T101 对称二叉树](src/main/java/easy/T101对称二叉树.java)
 - Day26 2023.07.26 [T235 二叉搜索树的最近公共祖先](src/main/java/medium/T235二叉搜索树的最近公共祖先.java)
-- Day27 2023.07.27 T98 验证二叉搜索树
+- Day27 2023.07.27 [T98 验证二叉搜索树](src/main/java/medium/T98验证二叉搜索树.java)
 - Day28 2023.07.28 T297 二叉树的序列化与反序列化
 - Day29 2023.07.29 T344 反转字符串
 - Day30 2023.07.30 T541 反转字符串 II
