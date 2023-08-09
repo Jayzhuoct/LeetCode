@@ -2,15 +2,15 @@
 
 :octocat:记录LeetCode刷题
 
-- Day1 2023.07.01 [T1 两数之和](src/main/java/easy/T1两数之和.java)
-- Day2 2023.07.02 [T191 位1的个数](src/main/java/easy/T191位1的个数.java)
-- Day3 2023.07.03 [T13 罗马数字转整数](src/main/java/easy/T13罗马数字转整数.java)
-- Day4 2023.07.04 [T141 环形链表](src/main/java/easy/T141环形链表.java)
-- Day5 2023.07.05 [T905 按奇偶排序数组](src/main/java/easy/T905按奇偶排序数组.java)
-- Day6 2023.07.06 [T345 反转字符串中的元音字母](src/main/java/easy/T345反转字符串中的元音字母.java)
-- Day7 2023.07.07 [T415 字符串相加](src/main/java/easy/T415字符串相加.java)
-- Day8 2023.07.08 [T344 反转字符串](src/main/java/easy/T344反转字符串.java)
-- Day9 2023.07.09 [T88 合并两个有序数组](src/main/java/easy/T88合并两个有序数组.java)
+- Day01 2023.07.01 [T1 两数之和](src/main/java/easy/T1两数之和.java)
+- Day02 2023.07.02 [T191 位1的个数](src/main/java/easy/T191位1的个数.java)
+- Day03 2023.07.03 [T13 罗马数字转整数](src/main/java/easy/T13罗马数字转整数.java)
+- Day04 2023.07.04 [T141 环形链表](src/main/java/easy/T141环形链表.java)
+- Day05 2023.07.05 [T905 按奇偶排序数组](src/main/java/easy/T905按奇偶排序数组.java)
+- Day06 2023.07.06 [T345 反转字符串中的元音字母](src/main/java/easy/T345反转字符串中的元音字母.java)
+- Day07 2023.07.07 [T415 字符串相加](src/main/java/easy/T415字符串相加.java)
+- Day08 2023.07.08 [T344 反转字符串](src/main/java/easy/T344反转字符串.java)
+- Day09 2023.07.09 [T88 合并两个有序数组](src/main/java/easy/T88合并两个有序数组.java)
 - Day10 2023.07.10 [T283 移动零](src/main/java/easy/T283移动零.java)
 - Day11 2023.07.11 [T242 有效的字母异位词](src/main/java/easy/T242有效的字母异位词.java)
 - Day12 2023.07.12 [T349 两个数组的交集](src/main/java/easy/T349两个数组的交集.java)
@@ -42,7 +42,7 @@
 - Day38 2023.08.07 [T15 三数之和](src/main/java/medium/T15三数之和.java)
 - Day39 2023.08.08 T209 长度最小的子数组
 - Day40 2023.08.09 T26 删除有序数组中的重复项
-- Day41 2023.08.10 
+- Day41 2023.08.10 T144 二叉树的前序遍历
 - Day42 2023.08.11 T70 爬楼梯
 - Day43 2023.08.12 T53 最大子序和
 - Day44 2023.08.13 T198 打家劫舍
