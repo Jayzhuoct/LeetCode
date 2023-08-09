@@ -37,7 +37,7 @@
 - Day33 2023.08.02 [T49 字母异位词分组](src/main/java/medium/T49字母异位词分组.java)
 - Day34 2023.08.03 [T696 计数二进制子串](src/main/java/easy/T696计数二进制子串.java)
 - Day35 2023.08.04 [T167 两数之和 II - 输入有序数组](src/main/java/medium/T167两数之和II输入有序数组.java)
-- Day36 2023.08.05 T125 验证回文串
+- Day36 2023.08.05 [T125 验证回文串](src/main/java/easy/T125验证回文串.java)
 - Day37 2023.08.06 T11 盛最多水的容器
 - Day38 2023.08.07 [T15 三数之和](src/main/java/medium/T15三数之和.java)
 - Day39 2023.08.08 T94 二叉树的中序遍历
