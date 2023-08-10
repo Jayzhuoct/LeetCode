@@ -42,7 +42,7 @@
 - Day38 2023.08.07 [T15 三数之和](src/main/java/medium/T15三数之和.java)
 - Day39 2023.08.08 [T209 长度最小的子数组](src/main/java/medium/T209长度最小的子数组.java)
 - Day40 2023.08.09 [T26 删除有序数组中的重复项](src/main/java/easy/T26删除有序数组中的重复项.java)
-- Day41 2023.08.10 T144 二叉树的前序遍历
+- Day41 2023.08.10 [T144 二叉树的前序遍历](src/main/java/easy/T144二叉树的前序遍历.java)
 - Day42 2023.08.11 T70 爬楼梯
 - Day43 2023.08.12 T53 最大子序和
 - Day44 2023.08.13 T198 打家劫舍
