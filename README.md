@@ -36,11 +36,11 @@
 - Day32 2023.08.01 [T387 字符串中的第一个唯一字符](src/main/java/easy/T387字符串中的第一个唯一字符.java)
 - Day33 2023.08.02 [T49 字母异位词分组](src/main/java/medium/T49字母异位词分组.java)
 - Day34 2023.08.03 [T696 计数二进制子串](src/main/java/easy/T696计数二进制子串.java)
-- Day35 2023.08.04 [T167 两数之和 II - 输入有序数组](src/main/java/medium/T167两数之和II输入有序数组.java)
+- Day35 2023.08.04 [T167 两数之和 II 输入有序数组](src/main/java/medium/T167两数之和II输入有序数组.java)
 - Day36 2023.08.05 [T125 验证回文串](src/main/java/easy/T125验证回文串.java)
 - Day37 2023.08.06 [T94 二叉树的中序遍历](src/main/java/easy/T94二叉树的中序遍历.java)
 - Day38 2023.08.07 [T15 三数之和](src/main/java/medium/T15三数之和.java)
-- Day39 2023.08.08 T209 长度最小的子数组
+- Day39 2023.08.08 [T209 长度最小的子数组](src/main/java/medium/T209长度最小的子数组.java)
 - Day40 2023.08.09 T26 删除有序数组中的重复项
 - Day41 2023.08.10 T144 二叉树的前序遍历
 - Day42 2023.08.11 T70 爬楼梯
