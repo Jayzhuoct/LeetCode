@@ -48,7 +48,7 @@
 - Day44 2023.08.13 [T198 打家劫舍](src/main/java/medium/T198打家劫舍.java)
 - Day45 2023.08.14 [T121 买卖股票的最佳时机](src/main/java/easy/T121买卖股票的最佳时机.java)
 - Day46 2023.08.15 [T72 编辑距离](src/main/java/hard/T72编辑距离.java)
-- Day47 2023.08.16 T11 盛最多水的容器
+- Day47 2023.08.16 [T11 盛最多水的容器](src/main/java/medium/T11盛最多水的容器.java)
 - Day48 2023.08.17 T300 最长递增子序列
 - Day49 2023.08.18 T279 完全平方数
 - Day50 2023.08.19 T1281 整数的各位积和之差
