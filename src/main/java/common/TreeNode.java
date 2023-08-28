@@ -1,6 +1,8 @@
 package common;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
 public class TreeNode {
@@ -46,4 +48,33 @@ public class TreeNode {
             System.out.println(); // 换行输出下一层的节点
         }
     }
+
+    public void printTreeToNums(TreeNode root) {
+        if (root == null) {
+            return;
+        }
+
+        List<Integer> nums = new ArrayList<>();
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while (!queue.isEmpty()) {
+            TreeNode node = queue.poll();
+            if (node != null) {
+                nums.add(node.val);
+                queue.offer(node.left);
+                queue.offer(node.right);
+            } else {
+                nums.add(null);
+            }
+        }
+
+        // 移除末尾的连续 null 值
+        while (!nums.isEmpty() && nums.get(nums.size() - 1) == null) {
+            nums.remove(nums.size() - 1);
+        }
+
+        System.out.println(nums);
+    }
+
 }
