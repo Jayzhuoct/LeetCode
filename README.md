@@ -1,6 +1,12 @@
 # LeetCode
 
-:octocat:记录LeetCode刷题
+![LeetCode Badge](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=fff&style=flat)
+![Java Badge](https://img.shields.io/badge/Java-007396?logo=oracle&logoColor=fff&style=flat)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=fff&style=flat)
+
+<img src="https://skillicons.dev/icons?i=java,idea"/>
+
+:octocat:记录LeetCode刷题 
 
 - Day01 2023.07.01 [T1 两数之和](src/main/java/easy/T1两数之和.java)
 - Day02 2023.07.02 [T191 位1的个数](src/main/java/easy/T191位1的个数.java)
