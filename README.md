@@ -72,7 +72,7 @@
 - Day62 2023.08.31 [T543 二叉树的直径](src/main/java/easy/T543二叉树的直径.java)
 - Day63 2023.09.01 [T35 搜索插入位置](src/main/java/easy/T35搜索插入位置.java)
 - Day64 2023.09.02 [T20 有效的括号](src/main/java/easy/T20有效的括号.java)
-- Day65 2023.09.03 T118 杨辉三角
+- Day65 2023.09.03 [T118 杨辉三角](src/main/java/easy/T118杨辉三角.java)
 - Day66 2023.09.04 T136 只出现一次的数字
 - Day67 2023.09.05 T1768 交替合并字符串
 - Day68 2023.09.06 T1071 字符串的最大公因子
