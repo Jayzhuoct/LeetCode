@@ -2,7 +2,9 @@ package easy;
 
 public class T1071字符串的最大公因子 {
     public static void main(String[] args) {
-
+        System.out.println(gcdOfStrings("ABCABC", "ABC"));
+        System.out.println(gcdOfStrings("ABABAB", "ABAB"));
+        System.out.println(gcdOfStrings("LEET", "CODE"));
     }
 
     /*
