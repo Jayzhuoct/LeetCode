@@ -92,4 +92,5 @@
 - Day82 2023.09.20 [T1137 第 N 个泰波那契数](src/main/java/easy/T1137第N个泰波那契数.java)
 - Day83 2023.09.21 [T739 每日温度](src/main/java/medium/T739每日温度.java)
 - Day84 2023.09.22 [T496 下一个更大元素 I](src/main/java/easy/T496下一个更大元素I.java)
+- Day85 2023.09.23 [T503 下一个更大元素 II](src/main/java/medium/T503下一个更大元素II.java)
 
