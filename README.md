@@ -93,4 +93,4 @@
 - Day83 2023.09.21 [T739 每日温度](src/main/java/medium/T739每日温度.java)
 - Day84 2023.09.22 [T496 下一个更大元素 I](src/main/java/easy/T496下一个更大元素I.java)
 - Day85 2023.09.23 [T503 下一个更大元素 II](src/main/java/medium/T503下一个更大元素II.java)
-
+- Day86 2023.09.24 [T394 字符串解码](src/main/java/medium/T394字符串解码.java)
