@@ -94,4 +94,5 @@
 - Day84 2023.09.22 [T496 下一个更大元素 I](src/main/java/easy/T496下一个更大元素I.java)
 - Day85 2023.09.23 [T503 下一个更大元素 II](src/main/java/medium/T503下一个更大元素II.java)
 - Day86 2023.09.24 [T394 字符串解码](src/main/java/medium/T394字符串解码.java)
-- Day87 2023.09.25 [T151反转字符串中的单词](src/main/java/medium/T151反转字符串中的单词.java)
+- Day87 2023.09.25 [T151 反转字符串中的单词](src/main/java/medium/T151反转字符串中的单词.java)
+- Day88 2023.09.26 [T238 除自身以外数组的乘积](src/main/java/medium/T238除自身以外数组的乘积.java)
