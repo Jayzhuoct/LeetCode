@@ -100,7 +100,7 @@
 - Day90 2023.09.28 [T443 压缩字符串](src/main/java/medium/T443压缩字符串.java)
 - Day91 2023.09.29 [T1679 K和数对的最大数目](src/main/java/medium/T1679K和数对的最大数目.java)
 - Day92 2023.09.30 [T1657 确定两个字符串是否接近](src/main/java/medium/T1657确定两个字符串是否接近.java)
-- Day93 2023.10.01 [T2352 相等行列对](src/main/java/easy/T2352相等行列对.java)
+- Day93 2023.10.01 [T2352 相等行列对](src/main/java/medium/T2352相等行列对.java)
 - Day94 2023.10.02 [T2390 从字符串中移除星号](src/main/java/medium/T2390从字符串中移除星号.java)
 - Day95 2023.10.03 [T735 小行星碰撞](src/main/java/medium/T735小行星碰撞.java)
 - Day96 2023.10.04 [T2095 删除链表的中间节点](src/main/java/medium/T2095删除链表的中间节点.java)
