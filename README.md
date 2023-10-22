@@ -121,7 +121,7 @@
 - Day111 2023.10.19 [T901 股票价格跨度](src/main/java/medium/T901股票价格跨度.java)
 - Day112 2023.10.20 [T27 移除元素](src/main/java/easy/T27移除元素.java)
 - Day113 2023.10.21 [T80 删除有序数组中的重复项 II](src/main/java/medium/T80删除有序数组中的重复项II.java)
-- Day114 2023.10.22
+- Day114 2023.10.22 [T189 轮转数组](src/main/java/medium/T189轮转数组.java)
 - Day115 2023.10.23
 - Day116 2023.10.24
 - Day117 2023.10.25
