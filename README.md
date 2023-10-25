@@ -124,7 +124,7 @@
 - Day114 2023.10.22 [T189 轮转数组](src/main/java/medium/T189轮转数组.java)
 - Day115 2023.10.23 [T122 买卖股票的最佳时机 II](src/main/java/medium/T122买卖股票的最佳时机II.java)
 - Day116 2023.10.24 [T55 跳跃游戏](src/main/java/medium/T55跳跃游戏.java)
-- Day117 2023.10.25
+- Day117 2023.10.25 [T45 跳跃游戏 II](src/main/java/medium/T45跳跃游戏II.java)
 - Day118 2023.10.26
 - Day119 2023.10.27
 - Day120 2023.10.28
