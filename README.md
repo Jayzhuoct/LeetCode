@@ -131,7 +131,7 @@
 - Day121 2023.10.29 [T205 同构字符串](src/main/java/easy/T205同构字符串.java)
 - Day122 2023.10.30 [T290 单词规律](src/main/java/easy/T290单词规律.java)
 - Day123 2023.10.31 [T202 快乐数](src/main/java/easy/T202快乐数.java)
-- Day124 2023.11.01
+- Day124 2023.11.01 [T2 两数相加](src/main/java/medium/T2两数相加.java)
 - Day125 2023.11.02
 - Day126 2023.11.03
 - Day127 2023.11.04
