@@ -132,7 +132,7 @@
 - Day122 2023.10.30 [T290 单词规律](src/main/java/easy/T290单词规律.java)
 - Day123 2023.10.31 [T202 快乐数](src/main/java/easy/T202快乐数.java)
 - Day124 2023.11.01 [T2 两数相加](src/main/java/medium/T2两数相加.java)
-- Day125 2023.11.02
+- Day125 2023.11.02 [T135 分发糖果](src/main/java/hard/T135分发糖果.java)
 - Day126 2023.11.03
 - Day127 2023.11.04
 - Day128 2023.11.05
