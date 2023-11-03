@@ -133,7 +133,7 @@
 - Day123 2023.10.31 [T202 快乐数](src/main/java/easy/T202快乐数.java)
 - Day124 2023.11.01 [T2 两数相加](src/main/java/medium/T2两数相加.java)
 - Day125 2023.11.02 [T135 分发糖果](src/main/java/hard/T135分发糖果.java)
-- Day126 2023.11.03
+- Day126 2023.11.03 [T138 随机链表的复制](src/main/java/medium/T138随机链表的复制.java)
 - Day127 2023.11.04
 - Day128 2023.11.05
 - Day129 2023.11.06
