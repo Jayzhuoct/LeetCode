@@ -134,7 +134,7 @@
 - Day124 2023.11.01 [T2 两数相加](src/main/java/medium/T2两数相加.java)
 - Day125 2023.11.02 [T135 分发糖果](src/main/java/hard/T135分发糖果.java)
 - Day126 2023.11.03 [T138 随机链表的复制](src/main/java/medium/T138随机链表的复制.java)
-- Day127 2023.11.04
+- Day127 2023.11.04 [T42 接雨水](src/main/java/hard/T42接雨水.java)
 - Day128 2023.11.05
 - Day129 2023.11.06
 - Day130 2023.11.07
